@@ -10,11 +10,11 @@
 
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+PICCI-RIDOY+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+RIDOY-404-CYBER+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+PICCI-RIDOY+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+RCN-ROCKYR+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
 
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
-<img src="https://profile-counter.glitch.me/RIDOY-404-CYBER/count.svg" />
+<img src="https://profile-counter.glitch.me/RCN-ROCKYR/count.svg" />
 
 </p>
 
@@ -25,10 +25,10 @@
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
-<a href="https://github.com/RIDOY-404-CYBER"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=RIDOY-404-CYBER&theme=monokai"></a>
+<a href="https://github.com/RCN-ROCKYR"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=RCN-ROCKYR&theme=monokai"></a>
 
 
-![RIDOY-404-CYBER's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIDOY-404-CYBER&show_icons=true&theme=chartreuse-dark)  
+![RCN-ROCKYR's GitHub stats](https://github-readme-stats.vercel.app/api?username=RCN-ROCKYR&show_icons=true&theme=chartreuse-dark)  
 
-![RIDOY-404-CYBER GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RIDOY-404-CYBER&theme=radical)
+![RCN-ROCKYR GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RCN-ROCKYR&theme=radical)
 
